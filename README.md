@@ -17,5 +17,3 @@ App Previews:
 ![image](https://github.com/user-attachments/assets/dfd0b308-6fc1-4ad9-9ac8-33da4745a22f)
 
 ![image](https://github.com/user-attachments/assets/49968738-f95b-4576-81c2-7afa15ee103c)
-
-

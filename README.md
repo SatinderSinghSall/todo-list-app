@@ -11,7 +11,7 @@ The **ToDo List App** is a simple, user-friendly task management application tha
 
 The app is ideal for anyone looking to stay organized and manage their daily tasks efficiently.
 
-**I will promptly update the deployment link for the web application shortly.** 🚀
+**Check out the web-app live deployed over the internet: https://satinder-todo-list-app.onrender.com/** 🚀
 
 App Previews:
 ![image](https://github.com/user-attachments/assets/dfd0b308-6fc1-4ad9-9ac8-33da4745a22f)
